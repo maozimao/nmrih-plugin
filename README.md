@@ -19,3 +19,6 @@ lmzinitsupply-初始物品
 
 lmzatkup-修改丧尸伤害
 可在cfg里面找到生成的文件进行配置
+
+AKnife-一刀999
+攻击丧尸伤害进修
