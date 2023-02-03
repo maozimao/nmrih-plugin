@@ -10,3 +10,6 @@ single-单通
 
 lmzflashlight-手电筒
 按x键开关手电筒
+
+stopmusic-关闭地图音乐
+定时器循环去关闭地图音乐
