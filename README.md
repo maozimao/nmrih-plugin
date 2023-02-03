@@ -13,3 +13,6 @@ lmzflashlight-手电筒
 
 stopmusic-关闭地图音乐
 定时器循环去关闭地图音乐
+
+lmzinitsupply-初始物品
+复活给道具-可在cfg里面找到生成的文件进行配置
